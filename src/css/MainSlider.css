@@ -1,0 +1,42 @@
+.main-slider{
+    background-image: url(/Users/ssun/Desktop/ustravel/public/img/main-slider-bgimg.png);
+    padding: 0% 8%;
+    padding-top: 205px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.slider-text > p:first-child{
+    color: #e4e4e4;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    line-height: 32px;
+}
+
+.slider-text > p:last-child{
+    color: #ffffff;
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 65px;
+}
+
+.slider-ellipse{
+    display: flex;
+    justify-content: center;
+    margin-top: 174px;
+    margin-bottom: 30px;
+}
+
+.slider-ellipse img{
+    opacity: 0.4;
+}
+
+.slider-ellipse img:first-child{
+    opacity: 1;
+}
+
+.slider-ellipse img:nth-child(2){
+    margin: 0px 15px;
+}

@@ -1,0 +1,47 @@
+.main-youtube{
+    padding: 100px 0px;
+}
+
+.main-youtube-txt{
+    text-align: center;
+}
+
+.main-youtube-boxarea{
+    padding: 0 8%;
+}
+
+.main-youtube-box{
+    margin-top: 30px;
+    display: flex;
+    justify-content: right;
+}
+
+.main-youtube-more{
+    width: 600px;
+    height: 322px;
+    background-color: #182747;
+    margin-top: -280px;
+    padding: 60px 69px;
+}
+
+.main-youtube-more p{
+    color:#B9BBC0;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.main-youtube-more p:nth-child(2){
+    color:#ffffff;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.main-youtube-more button{
+    color: #ffffff;
+    background-color: #ffffff00;
+    border: 1px solid #ffffff;
+    padding: 6px 14px;
+    margin-top: 30px;
+}

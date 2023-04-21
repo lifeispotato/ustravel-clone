@@ -1,0 +1,28 @@
+header{
+    height: 80px;
+    background-color: #fafafa;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0% 8%;
+}
+
+.main-logo{
+    width: 180px;
+    height: 46px;
+}
+
+.main-nav{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-nav li{
+    margin-left: 40px;
+}
+
+.main-nav li a{
+    color: #333333;
+    text-decoration:none ;
+}
